@@ -91,13 +91,14 @@ body {
     height: 300px;
 }
 .pencil {
-    left: 200px;
+    left: 1800px;
+    bottom: -67px;
     width: 20px;
     height: 280px;
     background: #FFBA49;
     box-shadow: 0 -5px 0 #A6B0B5, 0 -17px 0 #EF5B5B; /*gumka ołówka*/
-    transform: rotate(29deg);
-    transform-origin: bottom;
+    transform: rotate(72deg);
+
 }
 
 .pencil:before {
