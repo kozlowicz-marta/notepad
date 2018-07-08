@@ -7,4 +7,4 @@ A simple js application for adding notes. The application made it possible to ad
 * JavaScript
 
 ## Demo:
-[notepad - Let's note](https://kozlowicz-marta.github.io/notepad/)
+[notepad - Let's note]( https://kozlowicz-marta.github.io/notepad/)
